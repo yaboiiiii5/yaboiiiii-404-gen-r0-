@@ -1,0 +1,7 @@
+chutes
+httpx>=0.27
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2
+loguru>=0.7
+python-multipart>=0.0.9
